@@ -1,20 +1,19 @@
 # mySQL_Chapter6_Queries
 
-# MySQL Chapter 5 Queries
 
 ## Table of Contents
 - [Summary](#summary)
 - [Collaborator](#collaborator)
 - [New Concepts Used](#new-concepts)
-- [Exercise 1: Full Table Backup](#exercise-1)
-- [Exercise 2: Partial Table Backup](#exercise-2)
-- [Exercise 3: Drop Tables](#exercise-3)
-- [Exercise 4: Insert Without Column List](#exercise-4)
-- [Exercise 5: Insert Using Column List](#exercise-5)
-- [Exercise 6: Update Single Record](#exercise-6)
-- [Exercise 7: Update Multiple Records](#exercise-7)
-- [Exercise 8: Delete Statements](#exercise-8)
 
+- [Query 1: COUNT](#query-1)
+- [Query 2: COUNT DISTINCT](#query-2)
+- [Query 3: GROUP BY and HAVING](#query-3)
+- [Query 4: Functionally Dependent Column](#query-4)
+- [Query 5: WHERE vs HAVING - Part 1](#query-5)
+- [Query 6: WHERE vs HAVING - Part 2](#query-6)
+- [Query 7: WITH ROLLUP](#query-7)
+- [Query 8: GROUPING and COALESCE Functions](#query-8)
 
 ---
 
@@ -34,20 +33,17 @@ GitHub: [@nakediKhumo03](https://github.com/nakediKhumo03)
 
 ## New Concepts Used
 
-- **CREATE TABLE:** Creates new database tables.
-- **INSERT INTO:** Adds new records to a table.
-- **SELECT:** Retrieves and verifies records.
-- **WHERE:** Filters records based on conditions.
-- **UPDATE:** Modifies existing records.
-- **DELETE:** Removes records from a table.
-- **DROP TABLE:** Deletes an entire table.
-- **COUNT():** Counts the number of records.
-- **CHECKSUM TABLE:** Compares table checksums.
-- **NULL:** Represents missing or unknown values.
-- **DEFAULT:** Uses predefined column values.
-- **AUTO_INCREMENT:** Automatically generates unique IDs.
-- **Foreign Keys:** Maintain relationships between tables.
+## New Concepts Used
 
+- COUNT()
+- COUNT(DISTINCT column)
+- MIN(), MAX(), AVG(), SUM()
+- GROUP BY
+- HAVING
+- Functionally dependent columns
+- WHERE vs HAVING
+- WITH ROLLUP
+- GROUPING and COALESCE functions
 ---
 
 
