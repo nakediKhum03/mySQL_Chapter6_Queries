@@ -64,10 +64,10 @@ GitHub: [@nakediKhumo03](https://github.com/nakediKhumo03)
 ![Query 4](assets/Chapter6_Query4.png)
 
 ## Query 5
-![Query 5](assets/Chapter6_Query5png)
+![Query 5](assets/Chapter6_Query5.png)
 
 ## Query 6
-![Query 6](assets/Chapter_Query6.png)
+![Query 6](assets/Chapter6_Query6.png)
 
 ## Query 7
 ![Query 7](assets/Chapter6_Query7.png)
@@ -75,7 +75,3 @@ GitHub: [@nakediKhumo03](https://github.com/nakediKhumo03)
 ## Query 8
 ![Query 8](assets/Chapter6_Query8.png)
 
-
-
-### Query 8.1c
-![Query 8.1c](Assets/chapter5_query8.1.c.png)
