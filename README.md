@@ -31,7 +31,6 @@ Screenshots of MySQL Workbench queries and results are included to document each
 
 GitHub: [@nakediKhumo03](https://github.com/nakediKhumo03)
 
-## New Concepts Used
 
 ## New Concepts Used
 
